@@ -301,9 +301,9 @@ enterprise-supply-chain-logistics-analysis/
 
 ## Author
 
-### Vipul Paighan
+### Chandrashekhar Dhakate
 
-Email: [vipul.paighan.in@gmail.com](mailto:vipul.paighan.in@gmail.com)
+Email: chandrashekharndhakate13@gmail.com
 
 GitHub: https://github.com/vipulsystems
 
