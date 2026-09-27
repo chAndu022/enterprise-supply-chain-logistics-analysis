@@ -305,7 +305,7 @@ enterprise-supply-chain-logistics-analysis/
 
 Email: chandrashekharndhakate13@gmail.com
 
-GitHub: https://github.com/vipulsystems
+GitHub: https://github.com/chAndu022
 
 ---
 
